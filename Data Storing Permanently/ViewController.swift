@@ -34,7 +34,6 @@ class ViewController: UIViewController {
         // Save to Permanent storage
         UserDefaults.standard.set(strPhone, forKey: "Phone")
         
-        
     }
 
     override func viewDidLoad() {
